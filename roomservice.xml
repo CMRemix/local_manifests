@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CMRemix/android_device_samsung_dream2lte" path="device/samsung/dream2lte" remote="github" revision="cm-14.1" />
+  <project name="CMRemix/android_device_samsung_dreamlte" path="device/samsung/dreamlte" remote="github" revision="cm-14.1" />
+  <project name="CMRemix/android_device_samsung_universal8895-common" path="device/samsung/universal8895-common" remote="github" revision="cm-14.1" />
+  <project name="CMRemix/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
+  <project name="CMRemix/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1" />
+  <project name="CMRemix/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-14.1" />
+  <project name="CMRemix/android_hardware_samsung_slsi-cm_exynos8895" path="hardware/samsung_slsi-cm/exynos8895" remote="github" revision="cm-14.1" />
+  <project name="CMRemix/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
+  <project name="CMRemix/android_kernel_samsung_universal8895" path="kernel/samsung/universal8895" remote="github" revision="cm-14.1" />
+  <project name="CMRemix/zion959-proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
+</manifest>
